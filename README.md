@@ -2,7 +2,7 @@
 
 I'm use Spring boot 3.4.1 on graalvm 21.0.5
 
-This is a simple WebApplication includes to classes
+This is a simple WebApplication includes two classes
 
 * The first class is LoginEntity
 
